@@ -1,0 +1,5 @@
+C:\Users\clocknane\Desktop\csharp221\rockPaperScissors\bin\Debug\rockPaperScissors.exe.config
+C:\Users\clocknane\Desktop\csharp221\rockPaperScissors\bin\Debug\rockPaperScissors.exe
+C:\Users\clocknane\Desktop\csharp221\rockPaperScissors\bin\Debug\rockPaperScissors.pdb
+C:\Users\clocknane\Desktop\csharp221\rockPaperScissors\obj\Debug\rockPaperScissors.exe
+C:\Users\clocknane\Desktop\csharp221\rockPaperScissors\obj\Debug\rockPaperScissors.pdb

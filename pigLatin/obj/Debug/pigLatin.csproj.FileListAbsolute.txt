@@ -1,0 +1,5 @@
+C:\Users\clocknane\Desktop\csharp221\pigLatin\bin\Debug\pigLatin.exe.config
+C:\Users\clocknane\Desktop\csharp221\pigLatin\bin\Debug\pigLatin.exe
+C:\Users\clocknane\Desktop\csharp221\pigLatin\bin\Debug\pigLatin.pdb
+C:\Users\clocknane\Desktop\csharp221\pigLatin\obj\Debug\pigLatin.exe
+C:\Users\clocknane\Desktop\csharp221\pigLatin\obj\Debug\pigLatin.pdb
