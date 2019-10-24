@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\bin\Debug\ticTacToe.exe.config
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\obj\Debug\ticTacToe.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\obj\Debug\ticTacToe.exe
+C:\Users\clocknane\Desktop\csharp221\ticTacToe\obj\Debug\ticTacToe.pdb

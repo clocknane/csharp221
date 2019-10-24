@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pigLatin", "pigLatin\pigLat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rockPaperScissors", "rockPaperScissors\rockPaperScissors.csproj", "{65D78DE2-BEE4-45C0-9EC5-C9062FE3A0E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe", "ticTacToe\ticTacToe.csproj", "{77248D8F-B184-4E0E-AFD3-D05DA33641BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{65D78DE2-BEE4-45C0-9EC5-C9062FE3A0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65D78DE2-BEE4-45C0-9EC5-C9062FE3A0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65D78DE2-BEE4-45C0-9EC5-C9062FE3A0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77248D8F-B184-4E0E-AFD3-D05DA33641BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77248D8F-B184-4E0E-AFD3-D05DA33641BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77248D8F-B184-4E0E-AFD3-D05DA33641BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77248D8F-B184-4E0E-AFD3-D05DA33641BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
