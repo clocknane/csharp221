@@ -133,13 +133,13 @@ internal class Program
 	{
 		char[] playerSignatures = { 'X', 'O' };
 
-		foreach (char playerSignatue in playerSignatures)
+		foreach (char playerSignature in playerSignatures)
 		{
-			if (((ArrBoard[0] == playerSignatue) && (ArrBoard[4] == playerSignatue) && (ArrBoard[8] == playerSignatue))
-				|| ((ArrBoard[6] == playerSignatue) && (ArrBoard[4] == playerSignatue) && (ArrBoard[2] == playerSignatue)))
+			if (((ArrBoard[0] == playerSignature) && (ArrBoard[4] == playerSignature) && (ArrBoard[8] == playerSignature))
+				|| ((ArrBoard[6] == playerSignature) && (ArrBoard[4] == playerSignature) && (ArrBoard[2] == playerSignature)))
 			{
 				Console.Clear();
-				if (playerSignatue == 'X')
+				if (playerSignature == 'X')
 				{
 					Console.WriteLine("WOW!, player 1 that's a diagonal win! Excellently Played");
 				}
@@ -161,14 +161,14 @@ internal class Program
 	{
 		char[] playerSignatures = { 'X', 'O' };
 
-		foreach (char playerSignatue in playerSignatures)
+		foreach (char playerSignature in playerSignatures)
 		{
-			if (((ArrBoard[0] == playerSignatue) && (ArrBoard[3] == playerSignatue) && (ArrBoard[6] == playerSignatue))
-				|| ((ArrBoard[1] == playerSignatue) && (ArrBoard[4] == playerSignatue) && (ArrBoard[7] == playerSignatue))
-				|| ((ArrBoard[2] == playerSignatue) && (ArrBoard[5] == playerSignatue) && (ArrBoard[8] == playerSignatue)))
+			if (((ArrBoard[0] == playerSignature) && (ArrBoard[3] == playerSignature) && (ArrBoard[6] == playerSignature))
+				|| ((ArrBoard[1] == playerSignature) && (ArrBoard[4] == playerSignature) && (ArrBoard[7] == playerSignature))
+				|| ((ArrBoard[2] == playerSignature) && (ArrBoard[5] == playerSignature) && (ArrBoard[8] == playerSignature)))
 			{
 				System.Console.Clear();
-				if (playerSignatue == 'X')
+				if (playerSignature == 'X')
 				{
 					Console.WriteLine("Player 1, A vertical win! Congratulations");
 				}
@@ -190,18 +190,18 @@ internal class Program
 	{
 		char[] playerSignatures = { 'X', 'O' };
 
-		foreach (char playerSignatue in playerSignatures)
+		foreach (char playerSignature in playerSignatures)
 		{
-			if (((ArrBoard[0] == playerSignatue) && (ArrBoard[1] == playerSignatue) && (ArrBoard[2] == playerSignatue))
-				|| ((ArrBoard[3] == playerSignatue) && (ArrBoard[4] == playerSignatue) && (ArrBoard[5] == playerSignatue))
-				|| ((ArrBoard[6] == playerSignatue) && (ArrBoard[7] == playerSignatue) && (ArrBoard[8] == playerSignatue)))
+			if (((ArrBoard[0] == playerSignature) && (ArrBoard[1] == playerSignature) && (ArrBoard[2] == playerSignature))
+				|| ((ArrBoard[3] == playerSignature) && (ArrBoard[4] == playerSignature) && (ArrBoard[5] == playerSignature))
+				|| ((ArrBoard[6] == playerSignature) && (ArrBoard[7] == playerSignature) && (ArrBoard[8] == playerSignature)))
 			{
 				Console.Clear();
-				if (playerSignatue == 'X')
+				if (playerSignature == 'X')
 				{
 					Console.WriteLine("Congratulations Player 1.You have a achieved a horizontal win! ");
 				}
-				else if (playerSignatue == 'O')
+				else if (playerSignature == 'O')
 				{
 					Console.WriteLine("Congratulations Player 2.You have a achieved a horizontal win! ");
 				}
