@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\masterMind\bin\Debug\masterMind.exe.config
+C:\Users\clocknane\Desktop\csharp221\masterMind\bin\Debug\masterMind.exe
+C:\Users\clocknane\Desktop\csharp221\masterMind\bin\Debug\masterMind.pdb
+C:\Users\clocknane\Desktop\csharp221\masterMind\obj\Debug\masterMind.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\masterMind\obj\Debug\masterMind.exe
+C:\Users\clocknane\Desktop\csharp221\masterMind\obj\Debug\masterMind.pdb
