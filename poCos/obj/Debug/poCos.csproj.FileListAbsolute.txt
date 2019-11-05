@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\poCos\bin\Debug\poCos.exe.config
+C:\Users\clocknane\Desktop\csharp221\poCos\bin\Debug\poCos.exe
+C:\Users\clocknane\Desktop\csharp221\poCos\bin\Debug\poCos.pdb
+C:\Users\clocknane\Desktop\csharp221\poCos\obj\Debug\poCos.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\poCos\obj\Debug\poCos.exe
+C:\Users\clocknane\Desktop\csharp221\poCos\obj\Debug\poCos.pdb
