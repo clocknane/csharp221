@@ -47,7 +47,7 @@ namespace toDoList
 					ToDoList item = new ToDoList(description, date, priority);
 					ToDoListings.Add(item);
 
-					Console.WriteLine("Would You Like to Add Anoter Item? Yes/No");
+					Console.WriteLine("Would You Like to Add Another Item? Yes/No");
 					string secondChoice = Console.ReadLine().ToLower();
 					Console.WriteLine("\n");
 					if (secondChoice == "no")
