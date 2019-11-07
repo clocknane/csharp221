@@ -114,27 +114,26 @@ namespace TowersOfHanoi
 			int toValue = 0;
 
 			//Check if user selected a tower to move from that has no values
-			if (towerBoard[fromTower].Count == 0)
+			if (towerBoard[fromTower].Count != 0)
 			{
-				return false;
-			}
+				//Check that the tower to move to has at least 1 value
+				//so peek() doesn't throw an empty stack exception.
+				if (towerBoard[toTower].Count > 0)
+				{
+					fromValue = towerBoard[fromTower].Peek();
+					toValue = towerBoard[toTower].Peek();
+				}
 
-			//Check that the tower to move to has at least 1 value
-			//so peek() doesn't throw an empty stack exception.
-			if (towerBoard[toTower].Count > 0)
-			{
-				fromValue = towerBoard[fromTower].Peek();
-				toValue = towerBoard[toTower].Peek();
-			}
+				//Check if the value being moved is bigger
+				//than the value it's to be placed on top of
+				if (fromValue > toValue)
+				{
+					return false;
+				}
 
-			//Check if the value being moved is bigger
-			//than the value it's to be placed on top of
-			if (fromValue > toValue)
-			{
-				return false;
+				return true;
 			}
-
-			return true;
+			return false;
 		}
 
 		#endregion Check Move
