@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\carLot\bin\Debug\carLot.exe.config
+C:\Users\clocknane\Desktop\csharp221\carLot\bin\Debug\carLot.exe
+C:\Users\clocknane\Desktop\csharp221\carLot\bin\Debug\carLot.pdb
+C:\Users\clocknane\Desktop\csharp221\carLot\obj\Debug\carLot.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\carLot\obj\Debug\carLot.exe
+C:\Users\clocknane\Desktop\csharp221\carLot\obj\Debug\carLot.pdb
