@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\superHeroes\bin\Debug\superHeroes.exe.config
+C:\Users\clocknane\Desktop\csharp221\superHeroes\bin\Debug\superHeroes.exe
+C:\Users\clocknane\Desktop\csharp221\superHeroes\bin\Debug\superHeroes.pdb
+C:\Users\clocknane\Desktop\csharp221\superHeroes\obj\Debug\superHeroes.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\superHeroes\obj\Debug\superHeroes.exe
+C:\Users\clocknane\Desktop\csharp221\superHeroes\obj\Debug\superHeroes.pdb
