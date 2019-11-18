@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\bin\Debug\iRentableInventory.exe.config
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\bin\Debug\iRentableInventory.exe
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\bin\Debug\iRentableInventory.pdb
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\obj\Debug\iRentableInventory.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\obj\Debug\iRentableInventory.exe
+C:\Users\clocknane\Desktop\csharp221\iRentableInventory\obj\Debug\iRentableInventory.pdb
