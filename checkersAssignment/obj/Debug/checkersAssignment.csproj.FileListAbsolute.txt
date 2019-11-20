@@ -1,0 +1,6 @@
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\bin\Debug\checkersAssignment.exe.config
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\bin\Debug\checkersAssignment.exe
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\bin\Debug\checkersAssignment.pdb
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\obj\Debug\checkersAssignment.csprojAssemblyReference.cache
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\obj\Debug\checkersAssignment.exe
+C:\Users\clocknane\Desktop\csharp221\checkersAssignment\obj\Debug\checkersAssignment.pdb

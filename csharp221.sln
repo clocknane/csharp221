@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "carLot", "carLot\carLot.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iRentableInventory", "iRentableInventory\iRentableInventory.csproj", "{CA2F9635-D3EA-4F7D-A83F-17D201EA416F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "checkersAssignment", "checkersAssignment\checkersAssignment.csproj", "{556ABE15-DAE1-4922-806E-E28585E8F9A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{CA2F9635-D3EA-4F7D-A83F-17D201EA416F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA2F9635-D3EA-4F7D-A83F-17D201EA416F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA2F9635-D3EA-4F7D-A83F-17D201EA416F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556ABE15-DAE1-4922-806E-E28585E8F9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556ABE15-DAE1-4922-806E-E28585E8F9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556ABE15-DAE1-4922-806E-E28585E8F9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556ABE15-DAE1-4922-806E-E28585E8F9A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
